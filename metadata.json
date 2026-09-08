@@ -1,0 +1,6 @@
+{
+  "name": "AI Usage & Cost Dashboard",
+  "description": "Enterprise dashboard visualizing and comparing AI tool usage and costs between Claude and GitHub Copilot across departments and employees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
